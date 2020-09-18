@@ -1,0 +1,23 @@
+body{
+	background-color: lightgrey;
+}
+
+h1{
+			color:red; font-size: 90px; text-decoration: underline; font: fantasy;
+		}
+
+		h2{
+			color:green; font-size:40px; text-decoration: bold;
+		}
+
+		.small{
+			font-size:12px;
+		}
+
+		#first{
+			font-size: 150px;
+		}
+
+		span{
+			font-style: italic;
+		}
